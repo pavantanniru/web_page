@@ -1,0 +1,110 @@
+body{
+
+  text-align: center;
+  margin:0px;
+
+}
+
+.top-container{
+
+  background-color:#66BFBF;
+
+}
+
+.main-img{
+  width:100%;
+}
+
+h1{
+  margin:0px;
+  padding-top:33px;
+  padding-bottom:33px;
+  font-family: 'Dancing Script', cursive;
+  font-size:3rem;
+}
+
+h2{
+
+  font-family: 'Abel', sans-serif;
+  font-size:3rem;
+
+
+}
+
+
+
+.middle-container{
+  background-color:#f7d9d9;
+  padding-bottom: 33px;
+  padding-top:33px;
+}
+
+.baby-growth{
+  width:50%;
+  margin:100px auto 100px auto;
+  line-height:2;
+  text-align:left;
+}
+
+.img-rad{
+
+
+
+    border-radius: 50%;
+    width:35%;
+    float:right;
+    margin-left: 25px;
+
+}
+
+
+.img-rad2{
+  width:35%;
+  border-radius: 50%;
+  float:left;
+  margin-right: 25px;
+}
+
+
+.img-rad3{
+  border-radius: 50%;
+  float:right;
+  margin-left:25px;
+}
+
+.bottom-container{
+  background-color:#fff9b0;
+}
+
+
+.foodie{
+  width:50%;
+  margin:auto;
+}
+
+.baby-feed{
+  width:45%;
+  border-radius: 50%;
+  float:left;
+
+}
+
+.baby-feed2{
+  width:85%;
+  border-radius:20%;
+
+
+
+}
+
+
+.footer{
+  background-color:grey;
+  padding-bottom: 50px;
+}
+
+.at{
+  text-decoration: none;
+  cursor:grab;
+  color:yellow;
+}
